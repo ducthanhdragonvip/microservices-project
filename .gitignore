@@ -60,3 +60,7 @@ product-service/*
 !product-service/docker-compose.yml
 
 microservices-shop-frontend/node_modules/
+microservices-shop-frontend/.angular/
+microservices-shop-frontend/.idea/
+microservices-shop-frontend/.vscode/
+microservices-shop-frontend/.git/
